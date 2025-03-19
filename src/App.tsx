@@ -60,7 +60,7 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between h-12">
             <div className="flex items-center">
-              <img src="../public/synchash.png" alt="Synch Hash" className="h-9 w-auto" />
+              <img src="https://media.licdn.com/dms/image/v2/D560BAQHtM07FunZwcg/company-logo_100_100/B56ZWtD4rSGsAU-/0/1742365232319/synchash_logo?e=1747872000&v=beta&t=M0R5AjFehWpskHZ7gMC9Uf-qCzPM4fUj0UEtbyjq7ss" alt="Synch Hash" className="h-9 w-auto" />
               <span className="ml-2 text-base font-semibold text-white">Synch Hash</span>
             </div>
             <div className="hidden md:block">
